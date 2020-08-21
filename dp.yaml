@@ -5,6 +5,7 @@ metadata:
   labels:
     version: 8.5.56
     env: test
+  namespace: default
 spec:
   replicas: 4
   selector:
